@@ -11,7 +11,7 @@ Making a single page application with the help of backbone's structure way (Mode
     
 
 1) starting with node.js :::: ```~ npm init -y ```
-2) add dependencies :::: -typescrip, -backbone, -jQuery, -underscore
+2) add dependencies :::: -typescript, -backbone, -jQuery, -underscore
 ```
   ~ npm install typescript -g
   ~ npm install backbone
@@ -25,6 +25,6 @@ Making a single page application with the help of backbone's structure way (Mode
  
  4) make a app.ts file.
  
- 5) too compile the Ts file :::: ``` ~ tsc [fileName]```
+ 5) to compile the Ts file :::: ``` ~ tsc [fileName]```
  
  6) add script tag of generated JS file into HTML. and open the given index.html 
