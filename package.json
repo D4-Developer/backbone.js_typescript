@@ -1,0 +1,23 @@
+{
+  "name": "Backbone-Prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "D4Developer",
+  "license": "ISC",
+  "dependencies": {
+    "@types/backbone": "1.3.42",
+    "@types/jquery": "3.3.1",
+    "@types/node": "9.6.12",
+    "@types/underscore": "1.8.8",
+    "backbone": "1.3.3",
+    "jquery": "^3.4.1",
+    "underscore": "1.9.0",
+    "hammerjs": "2.0.8"
+  }
+}
